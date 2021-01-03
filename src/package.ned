@@ -1,3 +1,0 @@
-package ops;
-
-@license(LGPL);
